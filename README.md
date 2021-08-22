@@ -1,5 +1,5 @@
-# real-world-vue
-
+# Event reader from API
+Simple event reader from API made with Vue3. Based on VueMastery classes.
 ## Project setup
 ```
 npm install
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
